@@ -1,0 +1,10 @@
+#quadro{
+    width: 250px;
+    height: 250px;
+    background-color: pink;
+    border: 10px double black;
+    border-top-style: solid ;
+    border-top-color: red;
+    border-bottom-color: red;
+    border-bottom-style: solid ;
+}

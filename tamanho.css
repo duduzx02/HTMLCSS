@@ -1,0 +1,15 @@
+span{
+    color: white;
+    background-color: pink;
+    border: 1px solid red;
+    width: 300px;
+    height: 300px;
+}
+
+div{
+    color: black;
+    background-color: lightblue;
+    border: 1px solid lightgreen;
+    width: auto;
+    height: auto;
+}

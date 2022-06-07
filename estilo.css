@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(255, 255, 255);
+}
+h1 {
+    font-size: 55pt;
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 5px;
+    width: 1270px;
+    text-align: center;
+    background: #AABBCC;
+    color: blue;
+}

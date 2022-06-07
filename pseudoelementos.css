@@ -1,0 +1,25 @@
+p::first-letter{
+    font-size: 30px;
+    background-color: blue;
+}
+
+p {
+    background-color: aqua;
+}
+
+div::first-line{
+    color: yellowgreen;
+}
+
+li{
+    color: green;
+}
+
+::marker{
+    color: red;
+}
+
+::selection{
+    background-color: yellow;
+    color: red;
+}

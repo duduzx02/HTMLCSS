@@ -1,0 +1,61 @@
+/*Comentários...*/
+
+label[for]{
+    background-color: red;
+}
+
+.obrigatorio{
+    color: blue;
+}
+
+
+form div{
+    margin: 10px;
+}
+
+a[href*=br] {
+    background-color: green;
+    color: aqua;
+}
+
+option[value=S] {
+    color: blue;
+}
+
+option[value=R]{
+    color: red;
+}
+
+option[value=E]{
+    color: green;
+}
+
+[placeholder]{
+    color: red;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover, h1:hover{
+    background-color: black;
+}
+
+a:visited, h1:hover{
+    color: purple;
+}
+
+input:focus, textarea:focus{
+    background-color: yellowgreen;
+}
+
+input:hover, textarea:hover{
+    background: green ;
+}
+
+#meuslinks li:first-child a {
+    border: 2px solid green;
+    color: white;
+}
